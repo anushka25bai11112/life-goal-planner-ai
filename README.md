@@ -1,46 +1,61 @@
-# life-goal-planner-ai
-AI Life Goal Planner
-Overview
+🤖 AI Life Goal Planner (GUI-Based)
 
-AI Life Goal Planner is a beginner-friendly Python project that helps users organize their weekly goals. It takes a list of goals and the number of hours a user can dedicate each day, then generates a simple, humanized weekly plan. The planner also provides personalized tips for each goal, making it feel like a friendly assistant.
+A simple yet smart AI-powered Life Goal Planner built using Python and Tkinter.
+This application helps users organize their weekly goals based on time availability and priority, making planning easier and more effective.
 
-This project demonstrates basic Python programming concepts such as lists, loops, dictionaries, and randomization, while providing a useful and interactive tool.
+🚀 Features
+✅ Add multiple goals dynamically
+⏱️ Set time required for each goal
+🎯 Assign priority (High / Medium / Low)
+🧠 Smart scheduling (not random)
+📅 Automatic weekly plan generation
+💡 AI-based suggestions
+🖥️ Simple and user-friendly GUI
+🛠️ Tech Stack
+Language: Python
+GUI Library: Tkinter
+📦 Installation & Setup
+Make sure you have Python installed (Python 3.x recommended)
+Clone this repository:
+git clone https://github.com/your-username/ai-life-goal-planner.git
+cd ai-life-goal-planner
+Run the application:
+python main.py
+🧑‍💻 How to Use
+Enter your goal name
+Enter hours required per week
+Select priority (High / Medium / Low)
+Click “Add Goal”
+After adding all goals, click “Generate Smart Plan”
+View your personalized weekly plan
+🧠 How It Works
+Goals are stored with their time and priority
+The system uses a priority-based sorting algorithm
+Tasks are distributed across the week to maintain balance
+Generates a structured weekly schedule
 
-Features
-Accepts multiple goals from the user.
-Assigns a difficulty level to each goal.
-Generates a weekly plan by distributing goals across days.
-Provides humanized tips for each goal based on difficulty.
-Interactive and easy to use for beginners.
-How to Use
-Run the Python script ai_life_goal_planner.py.
-Enter your weekly goals separated by commas.
-Enter the number of hours per day you can dedicate to your goals.
-The AI will generate a weekly plan and provide tips for each goal.
-Follow the plan as much as possible, but feel free to adjust it.
-Example
-Enter your goals for this week, separated by commas: coding, reading, exercise
-How many hours per day can you spend on your goals? 2
+⚠️ Limitations
+No data saving (resets after closing app)
+Basic scheduling logic (no advanced AI/ML yet)
+No login system
+🚀 Future Improvements
+🔐 User login system
+💾 Save/load plans
+📊 Graphs using matplotlib
+🌙 Dark mode UI
+📱 Convert to web/mobile app
+🎯 Project Type
 
-Here’s your weekly plan:
+Beginner-friendly AI + Python GUI project
+Perfect for:
 
-Monday: coding, exercise
-Tuesday: reading
-Wednesday: coding
-Thursday: exercise
-Friday: reading
-Saturday: coding
-Sunday: Nothing scheduled, maybe take it easy or catch up on something
+BTech students
+Mini projects
+Resume building
+💡 Author
 
-Tips:
-- Coding: This one is a bit tough, try breaking it into smaller parts during the week
-- Reading: Medium effort, try to stay consistent
-- Exercise: Easy goal, should be quick to do, keep it up
-Tools Used
-Python 3.x
-Standard libraries: random
+Anushka Upadhayay
 
-Future Enhancements
-Add motivation/energy input to adjust daily tasks dynamically.
-Include a visualization of the weekly plan with color-coded tasks.
-Save and load user goals for tracking progress over multiple weeks.
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
