@@ -17,7 +17,7 @@ GUI Library: Tkinter
 📦 Installation & Setup
 Make sure you have Python installed (Python 3.x recommended)
 Clone this repository:
-git clone https://github.com/your-username/ai-life-goal-planner.git
+git clone https://github.com/anushka25bai11112/life-goal-planner-ai.git
 cd ai-life-goal-planner
 Run the application:
 python main.py
