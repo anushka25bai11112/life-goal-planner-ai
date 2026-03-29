@@ -112,8 +112,7 @@ Wednesday: Study
 ---
 
 ## 🙌 Author
-
-Created by a beginner developer as a BYOP (Bring Your Own Project).
+.Anushka Upadhyay
 
 ---
 
