@@ -1,3 +1,4 @@
+
 🤖 AI Life Goal Planner (GUI-Based)
 
 A simple yet smart AI-powered Life Goal Planner built using Python and Tkinter.
@@ -17,7 +18,7 @@ GUI Library: Tkinter
 📦 Installation & Setup
 Make sure you have Python installed (Python 3.x recommended)
 Clone this repository:
-git clone https://github.com/anushka25bai11112/life-goal-planner-ai.git
+git clone https://github.com/your-username/ai-life-goal-planner.git
 cd ai-life-goal-planner
 Run the application:
 python main.py
@@ -33,7 +34,13 @@ Goals are stored with their time and priority
 The system uses a priority-based sorting algorithm
 Tasks are distributed across the week to maintain balance
 Generates a structured weekly schedule
+📸 Screenshots
 
+Add your screenshots here
+
+Input Screen
+Goal List
+Generated Plan
 ⚠️ Limitations
 No data saving (resets after closing app)
 Basic scheduling logic (no advanced AI/ML yet)
@@ -54,7 +61,7 @@ Mini projects
 Resume building
 💡 Author
 
-Anushka Upadhayay
+Shreshth Shukla
 
 ⭐ Support
 
